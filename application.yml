@@ -7,3 +7,4 @@ gateway:
 
 kafka:
   ip: 172.18.0.101
+  port: 9092
