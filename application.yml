@@ -4,3 +4,6 @@ token:
 
 gateway:
   ip: 172.18.0.5
+
+kafka:
+  ip: 172.18.0.101
